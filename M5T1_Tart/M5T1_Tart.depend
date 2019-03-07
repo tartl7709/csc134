@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551826776 source:f:\csc134\m5t1_tart\main.cpp
+	<iostream>
+	"pen.h"
+
+1551826786 f:\csc134\m5t1_tart\pen.h
+
