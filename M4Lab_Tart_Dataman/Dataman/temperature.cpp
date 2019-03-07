@@ -7,12 +7,12 @@ using namespace std;
 
 void print_convert_menu()
 {
-    cout << "---Temperature Converter---" << endl;
+    cout << "----TEMPERATURE CONVERTER----" << endl;
     cout << "1. Convert Kelvin to Celsius" << endl;
     cout << "2. Convert Celsius to Kelvin" << endl;
     cout << "3. Convert Fahrenheit to Celsius" << endl;
     cout << "4. Convert Celsius to Fahrenheit" << endl;
-    cout << "0. Exit" << endl;
+    cout << "0. Back to Main Menu" << endl;
 }
 
 void tempConvertMenu()

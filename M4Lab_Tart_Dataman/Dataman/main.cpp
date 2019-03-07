@@ -10,8 +10,11 @@
 /*
 Changes to make program more user friendly:
 
-added 'x' for multiplication
+added 'x' for a multiplication option
 added '#' after option to indicate that a number is required
+added colons to after prompts to indicate input is required
+changed "exit" within temp converter menu to "Main Menu"
+
 */
 using namespace std;
 
