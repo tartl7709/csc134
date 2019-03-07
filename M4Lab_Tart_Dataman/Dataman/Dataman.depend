@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1551813240 source:e:\csc134\m4lab_tart_dataman\dataman\arithmetic.cpp
+
+1551982582 source:e:\csc134\m4lab_tart_dataman\dataman\main.cpp
+	<iostream>
+	"Arithmetic.h"
+	"temperature.h"
+
+1551813240 e:\csc134\m4lab_tart_dataman\dataman\arithmetic.h
+
+1551810654 e:\csc134\m4lab_tart_dataman\dataman\temperature.h
+
+1551829160 source:e:\csc134\m4lab_tart_dataman\dataman\temperature.cpp
+	<iostream>
+	"temperature.h"
+
+1551813240 source:f:\csc134\m4lab_tart_dataman\dataman\arithmetic.cpp
+
+1551829442 source:f:\csc134\m4lab_tart_dataman\dataman\main.cpp
+	<iostream>
+	"Arithmetic.h"
+	"temperature.h"
+
+1551813240 f:\csc134\m4lab_tart_dataman\dataman\arithmetic.h
+
+1551810654 f:\csc134\m4lab_tart_dataman\dataman\temperature.h
+
+1551829160 source:f:\csc134\m4lab_tart_dataman\dataman\temperature.cpp
+	<iostream>
+	"temperature.h"
+
