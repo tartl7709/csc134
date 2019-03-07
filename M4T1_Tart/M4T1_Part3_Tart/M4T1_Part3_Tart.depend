@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550604076 source:e:\csc134\m4t1_tart\m4t1_part3_tart\sharealike.cpp
+	<iostream>
+	"sharealike.h"
+
+1550604184 e:\csc134\m4t1_tart\m4t1_part3_tart\sharealike.h
+
+1550604076 source:f:\csc134\m4t1_tart\m4t1_part3_tart\main.cpp
+	<iostream>
+	"sharealike.h"
+
+1550604184 f:\csc134\m4t1_tart\m4t1_part3_tart\sharealike.h
+
+1550604076 source:f:\csc134\m4t1_tart\m4t1_part3_tart\sharealike.cpp
+	<iostream>
+	"sharealike.h"
+
