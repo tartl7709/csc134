@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1556815520 source:e:\csc134\adventure (v1)\main.cpp
+	<iostream>
+	"game.h"
+
+1556815366 source:e:\csc134\adventure (v1)\player.cpp
+	"player.h"
+
+1556815520 source:e:\csc134\adventure (v1)\game.cpp
+	"game.h"
+
+1556814730 e:\csc134\adventure (v1)\game.h
+	<vector>
+	<string>
+	<iostream>
+	"room.h"
+	"player.h"
+	"constants.h"
+	"item.h"
+
+1555611652 e:\csc134\adventure (v1)\room.h
+	<string>
+
+1555006290 e:\csc134\adventure (v1)\player.h
+	<string>
+	"room.h"
+
+1556814730 source:e:\csc134\adventure (v1)\room.cpp
+	<iostream>
+	"room.h"
+	<vector>
+
+1555104054 source:f:\csc134\adventure (v1)\player.cpp
+	"player.h"
+
+1555009890 f:\csc134\adventure (v1)\player.h
+	<string>
+	"room.h"
+
+1555615252 f:\csc134\adventure (v1)\room.h
+	<string>
+
+1555615340 source:f:\csc134\adventure (v1)\room.cpp
+	<iostream>
+	"room.h"
+	<vector>
+
+1555606968 source:f:\csc134\adventure (v1)\main.cpp
+	<iostream>
+	"game.h"
+
+1555615704 f:\csc134\adventure (v1)\game.h
+	<vector>
+	<string>
+	<iostream>
+	"room.h"
+	"player.h"
+	"constants.h"
+	"item.h"
+
+1555615870 source:f:\csc134\adventure (v1)\game.cpp
+	"game.h"
+	"constants.h"
+	"item.h"
+
+1556814730 source:e:\csc134\adventure (v1)\item.cpp
+	"item.h"
+	<iostream>
+
+1556814730 e:\csc134\adventure (v1)\item.h
+	<string>
+	<vector>
+
+1556815612 e:\csc134\adventure (v1)\constants.h
+
+1555614302 f:\csc134\adventure (v1)\constants.h
+
+1555613900 f:\csc134\adventure (v1)\item.h
+	<string>
+	<vector>
+
+1555614302 source:f:\csc134\adventure (v1)\item.cpp
+	"item.h"
+	<iostream>
+
