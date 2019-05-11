@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1554395370 source:e:\csc134\m6t1_tart\observer.cpp
+	<iostream>
+	"observer.h"
+
+1554396824 e:\csc134\m6t1_tart\observer.h
+
+1554400602 source:f:\csc134\m6t1_tart\main.cpp
+	<iostream>
+	"observer.h"
+
+1554400424 f:\csc134\m6t1_tart\observer.h
+
+1554398970 source:f:\csc134\m6t1_tart\observer.cpp
+	<iostream>
+	"observer.h"
+
