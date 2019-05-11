@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556820738 source:e:\csc134\m7t1_tart\m7t1_tart_listing2-3\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
